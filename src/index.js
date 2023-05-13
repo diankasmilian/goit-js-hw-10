@@ -77,4 +77,4 @@ function onError(err) {
    
    updateBox('');
    updateList('');
- };
+ }
